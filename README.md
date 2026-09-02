@@ -42,6 +42,4 @@
 
 22. If an application is deployed to EKS and a pod fails, how would you investigate it?
 
-📌 Save this post for your DevOps interview preparation.
 
-🔄 Share it with someone preparing for a DevOps or Cloud role.
